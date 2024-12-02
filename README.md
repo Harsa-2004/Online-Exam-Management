@@ -1,4 +1,4 @@
-Online_Exam_Management_System
+# Online Exam Management System
 Online Exam Management System This project is a comprehensive Online Exam Management System built using Python and MySQL. It enables seamless management of online exams for both administrators and students, offering user-friendly interfaces and robust functionalities.
 
 Features :

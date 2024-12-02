@@ -39,4 +39,3 @@ Technologies Used :
 
 ->Additional Tools: Libraries and frameworks like Tkinter
 
-Online-Exam-Management/Online_Exam_Management_System at main · Harsa-2004/Online-Exam-Management
